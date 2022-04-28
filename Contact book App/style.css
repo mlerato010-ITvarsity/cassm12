@@ -1,0 +1,13 @@
+body{
+    background-color: brown;
+    text-align: center;
+    font-size-adjust: inherit;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+button{
+    font-display: bold ;
+    appearance: auto;
+    font-stretch: semi-condense;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
